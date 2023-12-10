@@ -21,7 +21,7 @@ Después de haber indagado en la evolución de los medios y  ver como el metamed
 
   
 
-##Autotune, Vocaloid y la producción musical.
+## Autotune, Vocaloid y la producción musical.
 
   
 
@@ -48,7 +48,7 @@ De este modo se crean de forma totalmente artificial canciones originales.
   
   
 
-##Mocha y After effects y los sistemas de trackeo visual
+## Mocha y After effects y los sistemas de trackeo visual
 
   
 
