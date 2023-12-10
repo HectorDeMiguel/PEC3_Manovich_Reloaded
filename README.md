@@ -94,7 +94,7 @@ Como dice Lev Manovich en su libro El software toma el mando:
 
   
 
-Y esto lo vemos claramente en los dos ejemplos anteriormente mencionados, aplicados en nuevas tendencias tecnológicas de deepfake. Estos softwares que mediante IA, utilizan el trackeo de imágenes y la modulación de voz para crear material audiovisual que simula la realidad a partir de imágenes y sonidos que nosotros proporcionamos.
+Y esto lo vemos claramente en los dos ejemplos anteriormente mencionados, aplicados en nuevas tendencias tecnológicas como el **deepfake**. Estos softwares que mediante IA, utilizan el trackeo de imágenes y la modulación de voz para crear material audiovisual que simula la realidad a partir de imágenes y sonidos que nosotros proporcionamos.
 
   
 
