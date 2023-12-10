@@ -90,7 +90,7 @@ Estas técnicas de software que en un principio se utilizaban con una finalidad 
 
 Como dice Lev Manovich en su libro El software toma el mando:
 
-"Un híbrido puede definir nuevas técnicas de navegación e interacción que funcionan con formatos de medios no modificados. Por otro lado, un híbrido puede definir nuevos formatos de medios, pero utilizar técnicas de interacción/interfaz ya existentes. Un híbrido también puede combinar ambas estrategias, es decir, definir nuevas interfaces/herramientas y nuevos formatos de medios al mismo tiempo.”
+  >"Un híbrido puede definir nuevas técnicas de navegación e interacción que funcionan con formatos de medios no modificados. Por otro lado, un híbrido puede definir nuevos formatos de medios, pero utilizar técnicas de interacción/interfaz ya existentes. Un híbrido también puede combinar ambas estrategias, es decir, definir nuevas interfaces/herramientas y nuevos formatos de medios al mismo tiempo.”
 
   
 
