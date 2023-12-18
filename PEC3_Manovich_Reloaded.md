@@ -5,7 +5,7 @@
 
 <p>#PEC3_Manovich_Reloaded</p>
 <p>CASOS DE HIBRIDACIÓN</p>
-<p>Fecha: 09/12/2023</p>
+<p>Fecha: 18/12/2023</p>
 <p>Autor: Héctor de Miguel</p>
 <h2 id="planteamiento">Planteamiento</h2>
 <p>Después de haber indagado en la evolución de los medios y como el metamedio ordenador ha cambiado la forma en la que nos relacionamos con la creación y difusión de contenido de todo tipo gracias a aquello que Lev Manovich describe como la remediación, veremos como el metamedio ordenador, más allá de ser un contenedor de medios, se trata de un gran conjunto de pequeños componentes que se unen para crear híbridos. Este concepto de hibridación según L. Manoveich, <em>“es la consecuencia de la digitalización de medios preexistentes mediante software (finales de los 1970)”</em> y que dieron paso a nuevas técnicas informáticas para la generación y edición de “nuevos” medios. Para esclarecer estos conceptos lo resumiré en dos ejemplos concretos como Autotune respecto al “audio processing” y Mocha como pretexto del video tracking.</p>
@@ -13,6 +13,7 @@
 <p>Autotune nació a manos de Andy Hildebrand, geofisico dedicado al desarrollo de algoritmos para la interpretación de ondas sísmicas, mientras trabajaba en la empresa petrolifera Exxon. Es decir, la finalidad principal de su desarrollo de código estaba enfocado en la detección de yacimientos petroliferos. Hildebrand observó que dichos algoritmos le permitían analizar detectar y modificar el tono de archivos de audio. No fué hasta el momento en el que le presentó su trabajo a un amigo, donde se bromeó sobre cómo ese software podría hacer cantar bien a una de sus parejas.</p>
 <p>En el medio digital la hibridación toma total sentido cuando una herramienta o entorno se toma como base para otra actividad para la que no había estado ideada en un principio. Y en ese sentido autotune nace de la propia hibridación. Pero este concepto va más allá de un aspecto meramente técnico, la utilización de estos nuevos medios nos ha de traer una nueva forma de hacer las cosas, una creatividad que emana de la propia hibridación.</p>
 <p>En un principio, Auto-Tune estaba ideado para corregir discretamente leves fallos de afinación en la voz humana, para ayudar en la grabación de voces en producciones musicales, ya que la afinación es un tema crucial en el aspecto artístico y emocional del medio musical. La vuelta de tuerca vino en su implementación a nivel comercial, donde la artista y cantante Cher, utilizó este plug-in de forma exagerada sobre su voz, ya que a nivel tonal no necesitaba corrección, en el tema “Belive”. El empleo bajo parametros exagerados causando un efecto de sonido nunca antes escuchado causó un gran revuelo, y a partir de entonces este recurso estilístico se llamó popularmente el “efecto Cher”.</p>
+<p><img src="https://images.app.goo.gl/rpx7wDCWxYGPQYrWA" alt="Interface de Auto-Tune"></p>
 <p>Su uso se popularizó a finales de la década del 2000 donde el artista de hip-hop T-Pain hizo un uso generalizado en sus creaciones de esta herramienta. Tal era su vinculación al uso de Auto-Tune que tenía una app para iPhone (otro caso de hibridación) llamada “I am T-Pain” para simular su voz. Por otro lado, Tom Yorke, cantante de Radiohead, utilizo dicho software para otorgar musicalidad a un archivo donde simplemente se estaba recitando un texto. Autotune, como programa, busca de forma indiscriminada la musicalidad de aquello que se le introduce.</p>
 <p>Estos son algunos ejemplos de cómo estos medios híbridos pueden llegar a influirnos en en la forma en la que nos relacionamos y entendemos los medios y crear nuevos escenarios no solo tecnológicos sinó conceptuales y artísticos.</p>
 <p>Como dice Lev Manovich en su libro El software toma el mando:</p>
@@ -45,8 +46,16 @@
 <p>Y esto lo vemos claramente en los dos ejemplos anteriormente mencionados y como han servido y continuan sirviendo como base de nuevos entornos creativos digitales. Gracias al tracking y la modulación de voz, más los nuevos motores de inteligencia artificial, estan surgiendo nuevas tendencias tecnológicas como es el caso del deepfake. Softwares que crean material audiovisual que simula la realidad a partir de imágenes y sonidos que nosotros proporcionamos.</p>
 <p><img src="https://images.app.goo.gl/TtGUkzPaqNb6Qhc19" alt="Video sobre como funciona los softwares de deep fake"><a href="https://youtu.be/AmUC4m6w1wo?feature=shared">https://youtu.be/AmUC4m6w1wo?feature=shared</a></p>
 <p>La falsificación profunda busca la verosimilitud por encima de todo y mientras que esto puede suponer un gran problema ético y moral sobre su uso fraudulento difundiendo información falsa, suplantación de identidad, también es una herramienta que  mediante la cual surgen nuevas posibilidades creativas y de hacer negocio. Por ejemplo, servicios de atención al cliente mejorados, el mecenazgo de modelos virtuales, como es el caso de Aitana Lopez o grupos de música totalmente virtuales como Hatsune Miku o Kizuna AI.</p>
+<p><img src="https://www.youtube.com/watch?v=jhl5afLEKdo" alt="Concierto de artista virtual Hatsune Miku"></p>
 <h3 id="referencias-y-bibliografía">Referencias y Bibliografía</h3>
 <ul>
 <li>Manovich, Lev. (2013). <strong>El Software toma el mando</strong>. Barcelona: Editorial UOC.</li>
+</ul>
+<p>Referencias web</p>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Video_tracking">https://en.wikipedia.org/wiki/Video_tracking</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Auto-Tune">https://en.wikipedia.org/wiki/Auto-Tune</a></li>
+<li><a href="https://borisfx.com/products/mocha-pro/?product=mocha-pro&amp;host=standalone-plug-ins&amp;purchase-options=new-permanent-license">https://borisfx.com/products/mocha-pro/?product=mocha-pro&amp;host=standalone-plug-ins&amp;purchase-options=new-permanent-license</a></li>
+<li><a href="https://es.wikipedia.org/wiki/Vocaloid">https://es.wikipedia.org/wiki/Vocaloid</a></li>
 </ul>
 
