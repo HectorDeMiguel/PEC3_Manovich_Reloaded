@@ -26,7 +26,7 @@ En el medio digital la hibridación toma total sentido cuando una herramienta o 
 
 En un principio, Auto-Tune estaba ideado para corregir discretamente leves fallos de afinación en la voz humana, para ayudar en la grabación de voces en producciones musicales, ya que la afinación es un tema crucial en el aspecto artístico y emocional del medio musical. La vuelta de tuerca vino en su implementación a nivel comercial, donde la artista y cantante Cher, utilizó este plug-in de forma exagerada sobre su voz, ya que a nivel tonal no necesitaba corrección, en el tema “Belive”. El empleo bajo parametros exagerados causando un efecto de sonido nunca antes escuchado causó un gran revuelo, y a partir de entonces este recurso estilístico se llamó popularmente el “efecto Cher”.
 
-![Interface de Auto-Tune](https://images.app.goo.gl/rpx7wDCWxYGPQYrWA)
+![Interface de Auto-Tune]([https://images.app.goo.gl/rpx7wDCWxYGPQYrWA](https://everythingrecording.com/wp-content/uploads/2015/02/66_1_AT8_Auto.png))
 
 Su uso se popularizó a finales de la década del 2000 donde el artista de hip-hop T-Pain hizo un uso generalizado en sus creaciones de esta herramienta. Tal era su vinculación al uso de Auto-Tune que tenía una app para iPhone (otro caso de hibridación) llamada “I am T-Pain” para simular su voz. Por otro lado, Tom Yorke, cantante de Radiohead, utilizo dicho software para otorgar musicalidad a un archivo donde simplemente se estaba recitando un texto. Autotune, como programa, busca de forma indiscriminada la musicalidad de aquello que se le introduce.
 
